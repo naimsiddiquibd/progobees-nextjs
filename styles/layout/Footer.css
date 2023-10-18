@@ -1,0 +1,176 @@
+.footer {
+    position: relative;
+    font-family: 'Patrick Hand SC';
+    background-color: #9687df;
+    background-image:
+        linear-gradient(to right,
+            #6969b0, #9687df, #6969b0);
+    color: white;
+    padding-right: 1rem;
+        padding-left: 1rem;
+}
+
+.rocket-right {
+    position: absolute;
+    bottom: 11%;
+    right: 0%;
+    width: 18%;
+    padding: 0;
+}
+
+.rocket-left {
+    position: absolute;
+    top: 3%;
+    width: 17.3%;
+    left: 0%;
+}
+
+.footer li {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 24px;
+}
+
+.news-letter {
+    background: #dddaf2;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    margin-top: 8rem;
+}
+
+.news-letter input{
+    background-color: #dddaf2;
+    /* color: white !important; */
+}
+
+.news-letter button{
+    color: white;
+    background: #9586DE;
+    border-radius: 8px;
+}
+.news-letter button:hover{
+    background: #826ee4;
+}
+
+.footer-logo-copyright{
+    padding-top: 1rem;
+    position: relative;
+    /* bottom: -8%; */
+    right: 5%;
+}
+
+.social-icons{
+    margin-top: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+.footer_left_section{
+    margin-top: 4rem;
+    margin-left: 8rem;
+}
+.mobile_logo{
+    display: none;
+}
+@media screen and (min-width: 1921px){
+    .rocket-left {
+        width: 9.87%;
+    }
+    .rocket-right {
+        bottom: 0%;
+        width: 11%;
+    }
+}
+@media screen and (max-width: 1920px){
+    .rocket-left {
+        width: 13.2%;
+    }
+    .rocket-right {
+        bottom: 0%;
+        width: 15%;
+    }
+}
+@media screen and (max-width: 1440px){
+    .rocket-left {
+        width: 17.5%;
+    }
+    .rocket-right {
+        bottom: 3%;
+    }
+}
+@media screen and (max-width: 1367px) {
+    .footer_left_section{
+        margin-left: 4rem;
+    }
+    .social-icons{
+        margin-top: 3.2rem;
+    }
+    .rocket-left {
+        width: 19.45%;
+    }
+}
+@media screen and (max-width: 1024px){
+    .rocket-left {
+        width: 21%;
+    }
+    .social-icons{
+        margin-top: 1rem;
+        margin-bottom: 0.3rem;
+    }
+}
+@media screen and (max-width: 768px) {
+    .social-icons{
+        margin-top: 0rem;
+    }
+    .footer_left_section{
+        margin-top: 0rem;
+        margin-left: 0.25rem;
+    }
+    .rocket-left{
+        /* display: none; */
+        width: 19%;
+    }
+    .news-letter {
+        margin-top: 0.5rem;
+    }
+    .rocket-right{
+        /* display: none; */
+        bottom: 54%;
+    }
+    .footer-logo-copyright h1{
+        display: none;
+    }
+    .mobile_logo{
+        display: block;
+    }
+}
+@media screen and (max-width: 480px) {
+    .social-icons{
+        margin-top: 0rem;
+        margin-left: 1rem;
+    }
+    .footer_left_section{
+        margin-top: 0rem;
+        margin-left: 0.25rem;
+    }
+    .footer li {
+        font-size: 0.9rem;
+    }
+    .rocket-left{
+        /* display: none; */
+        width: 24%;
+    }
+    .news-letter {
+        margin-top: 0.5rem;
+    }
+    .rocket-right{
+        bottom: 54%;
+    }
+    .footer-logo-copyright h1{
+        display: none;
+    }
+    .mobile_logo{
+        display: block;
+    }
+}

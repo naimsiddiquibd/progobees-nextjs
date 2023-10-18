@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Patrick Hand SC';
+    src: url(../fonts/PatrickHandSC-Regular.ttf);
+  }
+  html * {
+    font-family: 'Patrick Hand SC';
+  }
+  body * {
+    font-family: 'Patrick Hand SC';
+  }

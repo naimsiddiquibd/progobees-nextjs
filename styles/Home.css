@@ -1,0 +1,169 @@
+.fun-game {
+    margin-top: 6rem;
+}
+
+.fun-game h1 {
+    font-family: 'Patrick Hand SC';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 4rem;
+    /* line-height: 73.02%; */
+    /* or 88px */
+
+    letter-spacing: 0.34em;
+
+    background: linear-gradient(112.1deg, #B94BFC -4.89%, #3757FF 41.52%, #FF377F 84.6%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.fun-game p {
+    font-size: 1.2rem;
+}
+
+.fun-game a {
+    background: #9586DE;
+    border-color: #594e8d;
+    padding: 0.65rem 1.8rem 0.65rem;
+}
+.fun-game.active a{
+    color: #9586DE;
+    background-color: #594e8d;
+    border-color: #594e8d;
+}
+
+.fun-game a:hover {
+    background: #594e8d;
+}
+
+.pgb_btn {
+    background: #9586DE;
+    border-color: #594e8d;
+    padding: 0.65rem 1.8rem 0.65rem;
+    width: 12rem;
+}
+
+.custom-badge {
+    background-color: #9586DE;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px; /* Adjust width and height to your needs for a circular shape */
+    height: 24px;
+    border-radius: 50%;
+  }
+  
+
+.pgb_btn:hover {
+    background: #594e8d;
+}
+
+.pgb_btn_outline {
+    color: black;
+    border-color: #594e8d;
+    padding: 0.65rem 1.8rem 0.65rem;
+    width: 12rem;
+}
+
+.pgb_btn_outline:hover {
+    background: #594e8d;
+}
+.btn-outline-primary{
+    --bs-btn-active-bg: #594e8d;
+}
+/* .pgb_btn_outline:focus{
+    background: #594e8d;
+} */
+.pgb_btn_outline.active {
+    background: #9586DE;
+}
+
+.occ_font {
+    margin-top: 6rem;
+}
+
+.occ_font h1 {
+    font-family: 'Patrick Hand SC';
+    font-style: normal;
+    font-size: 3.5rem;
+    letter-spacing: 0rem;
+}
+
+.grade_btn_div {
+    /* background-color: lightblue; */
+    width: 100%;
+    /* overflow-x: auto;
+    white-space: nowrap; */
+}
+.grade_btn_padding {
+    /* padding: 0.77rem 4rem 0.77rem; */
+    margin-right: 0.5rem;
+    font-size: 1.1rem;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.coding_course_card {
+    border: none;
+    box-shadow: rgba(154, 149, 165, 0.2) 0px 8px 24px;
+    margin-bottom: 0.5rem;
+}
+
+.two_btn .pgb_btn, .two_btn .pgb_btn_outline{
+    width: 11rem;
+}
+
+@media screen and (max-width: 768px) {
+    .fun-game {
+        margin-top: 3rem;
+    }
+
+    .fun-game h1 {
+        font-size: 3rem;
+    }
+
+    .occ_font {
+        margin-top: 5.3rem;
+        text-align: center;
+    }
+
+    .occ_font h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .two_btn{
+        display: inline-flex;
+        align-items: center;
+    }
+    .fun-game {
+        margin-top: 0.01rem;
+        text-align: center;
+    }
+
+    .fun-game h1 {
+        font-size: 2.5rem;
+    }
+
+    .occ_font {
+        margin-top: 0.01rem;
+        text-align: center;
+    }
+
+    .occ_font h1 {
+        font-size: 2.5rem;
+    }
+    .pgb_btn {
+        padding: 0.65rem 1.2rem 0.65rem !important;
+        width: 9rem !important;
+        font-size: 0.7rem;
+    }
+    .pgb_btn_outline {
+        padding: 0.65rem 1.2rem 0.65rem !important;
+        width: 9rem !important;
+        font-size: 0.7rem;
+    }
+}

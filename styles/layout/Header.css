@@ -1,0 +1,32 @@
+.nav-link{
+    font-family: 'Patrick Hand SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.20rem;
+    line-height: 99.02%;
+    color: #000000;
+}
+
+.nav-link:hover{
+    color: #9586DE !important;
+}
+.dropdown-menu{
+    min-width: max-content;
+}
+
+.language_button:hover{
+    background-color: rgb(248, 246, 246);
+}
+
+@media screen and (max-width: 768px) {
+
+    .navbar-nav .dropdown-menu{
+        padding-left: 1rem;
+    }
+}
+@media screen and (max-width: 480px) {
+
+    .header_logo{
+        width: 70%;
+    }
+}
