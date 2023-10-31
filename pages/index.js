@@ -21,30 +21,33 @@ export default function Home() {
         {
           id: 1,
           title: "Rising Coding Star G1",
-          class_numbers: "65",
+          class_numbers: "24",
+          quizzes: "24",
+          Activities: "48+",
+          durations: "3",
           description:
             "Empowering young minds with coding, AI, and creativity for enhanced aptitude and critical thinking skills.",
-          pdfLink: "/l1.pdf",
+          pdfLink: "https://docs.google.com/document/d/1PQrRlo9_KIhzSBBCwyh1Tnwi_GmrzF3VEORJFgNfFVw/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "Basic Web App",
             },
             {
               id: 2,
-              name: "Artificial Intelligence",
+              name: "Front-end",
             },
             {
               id: 3,
-              name: "Machine learning",
+              name: "Web Styling",
             },
             {
               id: 4,
-              name: "Game development",
+              name: "Python",
             },
             {
               id: 5,
-              name: "Android App development",
+              name: "JS App Development",
             },
           ],
           achievements: [
@@ -69,30 +72,33 @@ export default function Home() {
         {
           id: 2,
           title: "Coding Champion",
-          class_numbers: "26",
+          class_numbers: "48",
+          quizzes: "84",
+          Activities: "168+",
+          durations: "6",
           description:
             "Empowering young minds with coding, AI, and creativity for enhanced aptitude and critical thinking skills.",
-          pdfLink: "/l1.pdf",
+          pdfLink: "https://docs.google.com/document/d/1PQrRlo9_KIhzSBBCwyh1Tnwi_GmrzF3VEORJFgNfFVw/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "Game Development",
             },
             {
               id: 2,
-              name: "Artificial Intelligence",
+              name: "Deep Dive Into AI",
             },
             {
               id: 3,
-              name: "Machine learning",
+              name: "ML in Advance",
             },
             {
               id: 4,
-              name: "Game development",
+              name: "Advance Problem Solving",
             },
             {
               id: 5,
-              name: "Android App development",
+              name: "Git Version Control",
             },
           ],
           achievements: [
@@ -117,30 +123,33 @@ export default function Home() {
         {
           id: 3,
           title: "Coding Prodigy",
-          class_numbers: "26",
+          class_numbers: "96",
+          quizzes: "96",
+          Activities: "192+",
+          durations: "12",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l1.pdf",
+          pdfLink: "https://docs.google.com/document/d/1PQrRlo9_KIhzSBBCwyh1Tnwi_GmrzF3VEORJFgNfFVw/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "GUI Development",
             },
             {
               id: 2,
-              name: "Artificial Intelligence",
+              name: "Introduction to Data Science",
             },
             {
               id: 3,
-              name: "Machine learning",
+              name: "OOP",
             },
             {
               id: 4,
-              name: "Game development",
+              name: "JS App Development",
             },
             {
               id: 5,
-              name: "Android App development",
+              name: "Web Hosting",
             },
           ],
           achievements: [
@@ -171,22 +180,33 @@ export default function Home() {
         {
           id: 1,
           title: "Rising Coding Star G4",
-          class_numbers: "26",
+          class_numbers: "24",
+          quizzes: "24",
+          Activities: "48+",
+          durations: "3",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l2.pdf",
+          pdfLink: "https://docs.google.com/document/d/1EJfMQSrp5AcBDNfSf6oo62iHeT-_24ybYc03i-U_krY/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Ankara Scratch programming",
+              name: "Web Development",
             },
             {
               id: 2,
-              name: "Scratch programming",
+              name: "Python Programming",
             },
             {
               id: 3,
-              name: "Application development",
+              name: "Game Development",
+            },
+            {
+              id: 3,
+              name: "Data Science",
+            },
+            {
+              id: 3,
+              name: "Java Programming",
             },
           ],
           achievements: [
@@ -211,22 +231,33 @@ export default function Home() {
         {
           id: 2,
           title: "Coding Champion",
-          class_numbers: "43",
+          class_numbers: "48",
+          quizzes: "48",
+          Activities: "96+",
+          durations: "6",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l2.pdf",
+          pdfLink: "https://docs.google.com/document/d/1EJfMQSrp5AcBDNfSf6oo62iHeT-_24ybYc03i-U_krY/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "Web in Advance",
             },
             {
               id: 2,
-              name: "GG programming",
+              name: "Advance Python",
             },
             {
               id: 3,
-              name: "Application development",
+              name: "Game Development",
+            },
+            {
+              id: 3,
+              name: "Data Science",
+            },
+            {
+              id: 3,
+              name: "Java Advance",
             },
           ],
           achievements: [
@@ -251,22 +282,33 @@ export default function Home() {
         {
           id: 3,
           title: "Judge Coding Prodigy",
-          class_numbers: "26",
+          class_numbers: "96",
+          quizzes: "96",
+          Activities: "192+",
+          durations: "12",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l2.pdf",
+          pdfLink: "https://docs.google.com/document/d/1EJfMQSrp5AcBDNfSf6oo62iHeT-_24ybYc03i-U_krY/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "Deep in Web",
             },
             {
               id: 2,
-              name: "Scratch programming",
+              name: "Python With Problem Solving",
             },
             {
               id: 3,
-              name: "Application development",
+              name: "Game Development in Deep",
+            },
+            {
+              id: 3,
+              name: "Data Science Advance",
+            },
+            {
+              id: 3,
+              name: "Java OOP",
             },
           ],
           achievements: [
@@ -297,22 +339,33 @@ export default function Home() {
         {
           id: 1,
           title: "Rising Coding Star G7",
-          class_numbers: "26",
+          class_numbers: "24",
+          quizzes: "24",
+          Activities: "48+",
+          durations: "3",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l3.pdf",
+           pdfLink: "https://docs.google.com/document/d/1unTz2RQM7TaOdJKPPw7FpjDcF12qwrAB_4Hh3O-pZkI/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "Web Dev Pro",
             },
             {
               id: 2,
-              name: "Scratch programming",
+              name: "Python Pro",
             },
             {
               id: 3,
-              name: "Application development",
+              name: "Game Development",
+            },
+            {
+              id: 3,
+              name: "Data Science",
+            },
+            {
+              id: 3,
+              name: "Applyed Java",
             },
           ],
           achievements: [
@@ -337,22 +390,33 @@ export default function Home() {
         {
           id: 2,
           title: "Coding Champion",
-          class_numbers: "26",
+          class_numbers: "48",
+          quizzes: "48",
+          Activities: "96+",
+          durations: "6",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l3.pdf",
+           pdfLink: "https://docs.google.com/document/d/1unTz2RQM7TaOdJKPPw7FpjDcF12qwrAB_4Hh3O-pZkI/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "Scratch programming",
+              name: "Web App Pro",
             },
             {
               id: 2,
-              name: "Scratch programming",
+              name: "Python Pro",
             },
             {
               id: 3,
-              name: "Application development",
+              name: "Game Development",
+            },
+            {
+              id: 3,
+              name: "Data Science",
+            },
+            {
+              id: 3,
+              name: "Applyed Java",
             },
           ],
           achievements: [
@@ -377,22 +441,33 @@ export default function Home() {
         {
           id: 3,
           title: "Coding Prodigy",
-          class_numbers: "26",
+          class_numbers: "96",
+          quizzes: "96",
+          Activities: "192+",
+          durations: "12",
           description:
             "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
-          pdfLink: "/l3.pdf",
+           pdfLink: "https://docs.google.com/document/d/1unTz2RQM7TaOdJKPPw7FpjDcF12qwrAB_4Hh3O-pZkI/edit?usp=sharing",
           topics: [
             {
               id: 1,
-              name: "ABC programming",
+              name: "Web App Pro",
             },
             {
               id: 2,
-              name: "Scratch programming",
+              name: "Practical Python",
             },
             {
               id: 3,
-              name: "Application development",
+              name: "Game Development",
+            },
+            {
+              id: 3,
+              name: "Data Science",
+            },
+            {
+              id: 3,
+              name: "Applyed Java",
             },
           ],
           achievements: [
@@ -544,6 +619,12 @@ export default function Home() {
                             <p className="card-text">
                               <b>Class Number: {course.class_numbers}</b>
                               <br /> {course.description}{" "}
+                            </p>
+                            <p className="card-text">
+                              
+                              {course.Activities}{" "}Activities{" "}|{" "}{course.quizzes}{" "}Quizzes
+                              <br />
+                              Durations:{" "}{course.durations}{" "}Months
                             </p>
                             {course.topics.map((topic, index) => {
                               return (
