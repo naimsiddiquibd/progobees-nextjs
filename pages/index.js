@@ -77,7 +77,7 @@ export default function Home() {
           Activities: "168+",
           durations: "6",
           description:
-            "Empowering young minds with coding, AI, and creativity for enhanced aptitude and critical thinking skills.",
+            "Interactive coding journey for mastering fundamentals, transitioning to advanced languages seamlessly.",
           pdfLink: "https://docs.google.com/document/d/1PQrRlo9_KIhzSBBCwyh1Tnwi_GmrzF3VEORJFgNfFVw/edit?usp=sharing",
           topics: [
             {
@@ -128,7 +128,7 @@ export default function Home() {
           Activities: "192+",
           durations: "12",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Comprehensive, problem-solving-focused course unlocking creativity and paving the way for tech brilliance.",
           pdfLink: "https://docs.google.com/document/d/1PQrRlo9_KIhzSBBCwyh1Tnwi_GmrzF3VEORJFgNfFVw/edit?usp=sharing",
           topics: [
             {
@@ -185,7 +185,7 @@ export default function Home() {
           Activities: "48+",
           durations: "3",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Engaging coding lessons, building strong foundations for young tech enthusiasts' future endeavors.",
           pdfLink: "https://docs.google.com/document/d/1EJfMQSrp5AcBDNfSf6oo62iHeT-_24ybYc03i-U_krY/edit?usp=sharing",
           topics: [
             {
@@ -236,7 +236,7 @@ export default function Home() {
           Activities: "96+",
           durations: "6",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Robust, problem-centric curriculum fostering innovative thinking and preparing students for tech excellence.",
           pdfLink: "https://docs.google.com/document/d/1EJfMQSrp5AcBDNfSf6oo62iHeT-_24ybYc03i-U_krY/edit?usp=sharing",
           topics: [
             {
@@ -287,7 +287,7 @@ export default function Home() {
           Activities: "192+",
           durations: "12",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Cutting-edge coding program cultivating advanced skills, propelling students towards tech mastery and innovation.",
           pdfLink: "https://docs.google.com/document/d/1EJfMQSrp5AcBDNfSf6oo62iHeT-_24ybYc03i-U_krY/edit?usp=sharing",
           topics: [
             {
@@ -344,7 +344,7 @@ export default function Home() {
           Activities: "48+",
           durations: "3",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Foundational coding immersion, nurturing a love for programming and logical thinking.",
            pdfLink: "https://docs.google.com/document/d/1unTz2RQM7TaOdJKPPw7FpjDcF12qwrAB_4Hh3O-pZkI/edit?usp=sharing",
           topics: [
             {
@@ -395,7 +395,7 @@ export default function Home() {
           Activities: "96+",
           durations: "6",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Advanced problem-solving course igniting creativity and preparing students for tech leadership roles.",
            pdfLink: "https://docs.google.com/document/d/1unTz2RQM7TaOdJKPPw7FpjDcF12qwrAB_4Hh3O-pZkI/edit?usp=sharing",
           topics: [
             {
@@ -446,7 +446,7 @@ export default function Home() {
           Activities: "192+",
           durations: "12",
           description:
-            "An ideal course to help kids quickly grasp the basics of coding and start writing code using blocks.",
+            "Exhaustive coding curriculum, honing expert-level skills for tech innovation and industry leadership.",
            pdfLink: "https://docs.google.com/document/d/1unTz2RQM7TaOdJKPPw7FpjDcF12qwrAB_4Hh3O-pZkI/edit?usp=sharing",
           topics: [
             {
